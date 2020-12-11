@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muntasir</h1>
-<h4 align="center"><i>aka noob_dev<i></h4>
+<h4 align="center"><i>aka noob_dev</i></h4>
 <h3 align="center">An aspiring student working to be a Full Stack Developer</h3>
 
 - 📫 How to reach me **muntasir.enam54@outlook.com**
