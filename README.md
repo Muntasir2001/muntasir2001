@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring student working to be a Full Stack Developer</h3>
 
 - 📫 How to reach me **muntasir.enam54@outlook.com**
-- Want to chat with me real quick? **https://discord.gg/jqEpg2Y6** 
+- Want to chat with me real quick? **https://discord.gg/vNe9QVrWNa** 
 - My Website: **coming soon**
 
 <h3 align="left">Languages and Tools:</h3>
