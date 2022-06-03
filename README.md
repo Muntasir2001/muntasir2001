@@ -26,11 +26,11 @@
 </p>
 
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir2001&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://komarev.com/ghpvc/?username=Muntasir2001&style=for-the-badge)
 
-
-
+<!-- 
 ![](https://hit.yhype.halp.im/github/profile?user_id=52258261)
 ![](https://hit.yhype.me/github/profile?user_id=52258261)
 
-![](https://komarev.com/ghpvc/?username=muntasir2001&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=muntasir2001&color=blueviolet&style=flat) -->
 
