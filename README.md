@@ -4,7 +4,6 @@
  </p>
 
 <h4 align="center"><i>aka noob_dev54</i></h4>
-<h3 align="center">An aspiring student working to be a Full Stack Developer</h3>
 
 <h1 align="center">About Me</h1>
 
