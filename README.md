@@ -7,7 +7,7 @@
 
 <h1 align="center">About Me</h1>
 
-- 🖥 Full stack developer
+- 🖥 Full Stack Developer
 - 🧷 My Website: **https://www.muntasirenamalhuda.com/**
 - 🎓 Studying BSc Computer Science, class of 2023
 - 💬 Want to chat with me real quick? **https://discord.gg/vNe9QVrWNa** 
