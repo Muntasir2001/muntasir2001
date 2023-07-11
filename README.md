@@ -9,7 +9,7 @@
 
 - 🖥 Full Stack Developer
 - 🧷 My Website: **https://www.muntasirenamalhuda.com/**
-- 🎓 Studying BSc Computer Science, class of 2023
+- 🎓 BSc Computer Science graduate
 - 💬 Want to chat with me real quick? **https://discord.gg/vNe9QVrWNa** 
 - 📫 How to reach me? **muntasir.enam54@outlook.com**
 
