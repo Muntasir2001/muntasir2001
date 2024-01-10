@@ -45,9 +45,7 @@
 
 <h1 align="center">My Github Stats</h1>
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir2001&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir2001&theme=radical&hide_border=true" />  
-</p>
+
 ![](https://komarev.com/ghpvc/?username=Muntasir2001&style=for-the-badge)
 
 <!-- 
