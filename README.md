@@ -44,16 +44,6 @@
 </p>
 
 <h1 align="center">My Github Stats</h1>
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Muntasir2001&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Muntasir2001&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir2001&theme=radical&hide_border=true" />  
-</p>
-
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir2001&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](https://komarev.com/ghpvc/?username=Muntasir2001&style=for-the-badge)
 
