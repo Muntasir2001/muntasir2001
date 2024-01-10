@@ -8,7 +8,7 @@
 <h1 align="center">About Me</h1>
 
 - 🖥 Full Stack Developer
-- 🧷 My Website: **https://www.muntasirenamalhuda.com/**
+- 🧷 My Website: **https://muntasirenamalhuda.com/**
 - 🎓 BSc Computer Science graduate
 - 💬 Want to chat with me real quick? **https://discord.gg/vNe9QVrWNa** 
 - 📫 How to reach me? **muntasir.enam54@outlook.com**
