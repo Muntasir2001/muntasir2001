@@ -43,9 +43,7 @@
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
 </p>
 
-<h1 align="center">My Github Stats</h1>
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir2001&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ![](https://komarev.com/ghpvc/?username=Muntasir2001&style=for-the-badge)
 
 <!-- 
@@ -53,4 +51,3 @@
 ![](https://hit.yhype.me/github/profile?user_id=52258261)
 
 ![](https://komarev.com/ghpvc/?username=muntasir2001&color=blueviolet&style=flat) -->
-
